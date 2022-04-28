@@ -188,14 +188,16 @@ echo '<form style="margin:25px" name="form" action="form.php?q=account.php" onSu
 	   CKEDITOR.replace( "editor",
     {
 	    removeButtons: "Source,About",
-       
+		filebrowserUploadUrl: "ckeditor/ck_upload.php",
+		filebrowserUploadMethod: "form"
 	   });
  </script> 
   </div>
   <div class="form group">
    <input type="submit" value="Save" class="sub btn sub1" style="margin-left:50%;"/></div>
   </form>';
-$result1 = mysqli_query($con,"DELETE FROM articles WHERE id='$id' ") or die('Error');  }
+//$result1 = mysqli_query($con,"DELETE FROM articles WHERE id='$id' ") or die('Error');  
+}
 }}?>
 
 
