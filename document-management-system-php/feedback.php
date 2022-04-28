@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
-<title>My Diary||Feedback</title>
+<title>Science Store||Feedback</title>
 <link  rel="stylesheet" href="css/bootstrap.min.css"/>
  <link  rel="stylesheet" href="css/bootstrap-theme.min.css"/>    
  <link rel="stylesheet" href="css/main.css">
@@ -24,7 +24,7 @@
 <!--header start-->
 <div class="row logo">
 <div class="col-md-6">
-<h1><span style="color:#FFCA82">My&nbsp;Diary</span>&nbsp;<span style="font-size:15px; color:#fff;">Soft copy of my feeling...</span></h1>
+<h1><span style="color:#FFCA82">Science&nbsp;tore</span>&nbsp;<span style="font-size:15px; color:#fff;"> </span></h1>
 
 </div>
 <div class="col-md-2">

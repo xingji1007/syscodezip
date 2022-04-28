@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
-<title>My Diary||About Us</title>
+<title>Science Store||About Us</title>
 <link  rel="stylesheet" href="css/bootstrap.min.css"/>
  <link  rel="stylesheet" href="css/bootstrap-theme.min.css"/>    
  <link rel="stylesheet" href="css/main.css">
@@ -23,7 +23,7 @@
 <!--header start-->
 <div class="row logo">
 <div class="col-md-6">
-<h1><span style="color:#FFCA82">My&nbsp;Diary</span>&nbsp;<span style="font-size:15px; color:#fff;">Soft copy of my feeling...</span></h1>
+<h1><span style="color:#FFCA82">Science&nbsp;tore</span>&nbsp;<span style="font-size:15px; color:#fff;"> </span></h1>
 
 </div>
 <div class="col-md-2">
@@ -92,7 +92,7 @@ echo '<a href="logout.php?q=aboutus.php" class="pull-right sub btn sub1"><span c
 <div class="col-md-6 panel" style="background-image:url(img/bg1.jpg)">
 <h2 align="center" style="font-family:love; color:#000066">ABOUT US.....</h2>
 <div style="font-size:14px">
-<p><b style="font-family:fantasy; font-size:16px">My Diary</b> is an app for anyone who wants to keep a personal online diary, and is designed to be fast and easy to use.<br />
+<p><b style="font-family:fantasy; font-size:16px">Science Store</b> is an app for anyone who wants to keep a personal online diary, and is designed to be fast and easy to use.<br />
 There are many types of diaries and many choose to share different things. The usual definition is that a diary a dated record of what's happened. 
 Having it online provides many improvements to the old hand-written type.
 <ul>

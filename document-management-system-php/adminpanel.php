@@ -3,7 +3,7 @@
 <html lang="en">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
-<title>My Diary || Admin panel</title>
+<title>Science Store || Admin panel</title>
 
  <link  rel="stylesheet" href="css/bootstrap.min.css"/>
  <link  rel="stylesheet" href="css/bootstrap-theme.min.css"/>    
@@ -21,7 +21,7 @@
 <!--header start-->
 <div class="row logo">
 <div class="col-md-6">
-<h1><span style="color:#FFCA82">My&nbsp;Diary</span>&nbsp;<span style="font-size:15px; color:#fff;">Soft copy of my feeling...</span></h1>
+<h1><span style="color:#FFCA82">Science&nbsp;tore</span>&nbsp;<span style="font-size:15px; color:#fff;"> </span></h1>
 
 </div>
 <div class="col-md-2">
